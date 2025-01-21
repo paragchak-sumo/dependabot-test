@@ -4,10 +4,10 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    target-branch: "develop/testing"
+    target-branch: "parag/test"
 
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "daily"
-    target-branch: "develop/testing"
+    target-branch: "parag/test"
